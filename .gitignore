@@ -1,5 +1,5 @@
 .dub/
 *.o
-movoa
-movoa-test-library
+/movoa
+/movoa-test-library
 .DS_Store
